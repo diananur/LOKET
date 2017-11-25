@@ -31,3 +31,5 @@ koding 6 saat klik cancel maka akan dilarikan pada halaman inputan : <br>
 
 koding 7 saat klik logout anda anda akan dilarikan pada halaman login awal: <br>
 ![alt text](https://github.com/diananur/LOKET/blob/master/g.PNG)<br>
+<br><br>
+Terima Kasih 
